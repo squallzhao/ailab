@@ -23,7 +23,9 @@ What is aistudy?
 2 Spark & TensorFlow
 ---------------------
 
- **TensorFlowOnSpark**  https://github.com/yahoo/TensorFlowOnSpark
+ **TensorFlowOnSpark镜像**  https://hub.docker.com/r/brokad/coreos-tensorflowonspark/
+
+ **TensorFlowOnSpark源码**  https://github.com/yahoo/TensorFlowOnSpark
 
  **TensorFlowOnSpark搭建standalone** http://blog.csdn.net/jiangpeng59/article/details/72867368
 
