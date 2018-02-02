@@ -1,0 +1,5 @@
+pip
+
+wget https://bootstrap.pypa.io/get-pip.py --no-check-certificate
+python get-pip.py
+
