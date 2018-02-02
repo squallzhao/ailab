@@ -16,7 +16,7 @@ What is aistudy?
 
  **Spark Mlib官方文档** http://spark.apache.org/docs/latest/mllib-statistics.html#summary-statistics
 
-               python例子位置  /usr/local/spark-2.2.0-bin-hadoop2.7/examples/src/main/python/mllib
+ **python ml虚拟机中例子位置**  /usr/local/spark-2.2.0-bin-hadoop2.7/examples/src/main/python/mllib
 
 
 
