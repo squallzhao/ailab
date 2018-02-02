@@ -1,14 +1,11 @@
 # aistudy
 
-aistudy integration/staging tree
-=====================================
-
 What is aistudy?
-----------------
+=====================================
 
 **aistudy** is a study project for learning AI.
 
-spark
+1 spark
 ----------------
 
  https://hub.docker.com/r/p7hb/docker-spark/
