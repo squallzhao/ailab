@@ -1,1 +1,2 @@
 spark-submit --master spark://spark:7077  test.py
+spark-submit --master spark://spark:7077 examples/src/main/python/mllib/k_means_example.py
