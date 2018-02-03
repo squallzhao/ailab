@@ -32,6 +32,8 @@ tensorflow
 
 *[Deepo介绍](https://baijiahao.baidu.com/s?id=1582701242877189028&wfr=spider&for=pc)
 
+*[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
+
 pytorch
 ---------------
 
@@ -69,6 +71,8 @@ matlab
 
 学习笔记
 --------------------------
+*[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
+
 *[利炳根-tensorflow首篇（移动端，k8s，serving)](http://www.cnblogs.com/libinggen/p/6864256.html)
 
 *[利炳根-深度学习首篇](http://www.cnblogs.com/libinggen/p/7849427.html)
