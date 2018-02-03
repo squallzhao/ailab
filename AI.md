@@ -98,6 +98,9 @@ http://blog.jobbole.com/105602/
 
 **斯坦福大学公开课-机器学习课程** http://open.163.com/special/opencourse/machinelearning.html
 
+**莫烦keras视频**  https://morvanzhou.github.io/tutorials/machine-learning/keras/
+
+
 spark
 --------------------------
 
