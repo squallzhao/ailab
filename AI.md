@@ -77,31 +77,32 @@ matlab
 
 *[bonelee-spark博客](http://www.cnblogs.com/bonelee/tag/spark/)
 
-**零基础入门深度学习(1) - 感知器**  https://www.zybuluo.com/hanbingtao/note/433855
+*[零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)
 
-**零基础入门深度学习(2) - 线性单元和梯度下降**  https://www.zybuluo.com/hanbingtao/note/448086
+*[零基础入门深度学习(2) - 线性单元和梯度下降](https://www.zybuluo.com/hanbingtao/note/448086)
 
-**零基础入门深度学习(3) - 神经网络和反向传播算法**  https://www.zybuluo.com/hanbingtao/note/476663
+*[零基础入门深度学习(3) - 神经网络和反向传播算法](https://www.zybuluo.com/hanbingtao/note/476663)
 
-**零基础入门深度学习(4) - 卷积神经网络**  https://www.zybuluo.com/hanbingtao/note/485480
+*[零基础入门深度学习(4) - 卷积神经网络](https://www.zybuluo.com/hanbingtao/note/485480)
 
-**零基础入门深度学习(5) - 循环神经网络**  https://zybuluo.com/hanbingtao/note/541458
+*[零基础入门深度学习(5) - 循环神经网络](https://zybuluo.com/hanbingtao/note/541458)
 
-**零基础入门深度学习(6) - 长短时记忆网络(LSTM)** https://zybuluo.com/hanbingtao/note/581764
+*[零基础入门深度学习(6) - 长短时记忆网络(LSTM)](https://zybuluo.com/hanbingtao/note/581764)
 
-**零基础入门深度学习(7) - 递归神经网络** https://zybuluo.com/hanbingtao/note/626300
+*[零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 
-*[深度学习笔记](https://github.com/lijingpeng/deep-learning-notes/blob/master/README.md)
+*[李景鹏-深度学习笔记](https://github.com/lijingpeng/deep-learning-notes/blob/master/README.md)
 
 
 
 模板-扩展-网络
 --------------------------
 
-**tensorflow-template-http-rpc** https://github.com/tobegit3hub/tensorflow_template_application
-http://blog.jobbole.com/105602/
+*[tensorflow-template-http-rpc](https://github.com/tobegit3hub/tensorflow_template_application)
 
-**sparknet（deprecated）**  http://blog.csdn.net/chang_ge/article/details/52687461
+*[tensorflow-template说明](http://blog.jobbole.com/105602/)
+
+*[sparknet（deprecated](http://blog.csdn.net/chang_ge/article/details/52687461)
 
 
 视频教程
