@@ -115,6 +115,8 @@ http://blog.jobbole.com/105602/
 
 **莫烦强化学习**  https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
 
+**莫烦-有趣的机器学习（学习算法）** https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/
+
 spark
 --------------------------
 
