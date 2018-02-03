@@ -16,7 +16,7 @@ What is aistudy?
 
 tensorflow
 ------------------------------
-*[tensorflow镜像](https://hub.docker.com/r/tensorflow/tensorflow/)
+*[tensorflow镜像](https://hub.docker.com/r/tensorflow/tensorflow/)  *[models](https://github.com/tensorflow/models)
 
 *[斯坦福课程](https://web.stanford.edu/class/cs20si/)
 
