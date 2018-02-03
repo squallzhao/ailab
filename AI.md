@@ -10,19 +10,19 @@ padans
 -----------------------------------
 
 
-**十分钟搞定pandas**  http://python.jobbole.com/84416/
+*[十分钟搞定pandas](http://python.jobbole.com/84416/)
 
-**Pandas速查手册中文版** http://blog.csdn.net/qq_33399185/article/details/60872853
+*[Pandas速查手册中文版](http://blog.csdn.net/qq_33399185/article/details/60872853)
 
-**padans入门** http://www.xuebuyuan.com/2180572.html
+*[padans入门](http://www.xuebuyuan.com/2180572.html)
 
 
 keras
 -------------------------------
 
-**keras简介** https://m.leiphone.com/news/201708/fhJ72ZPlmYr12CwV.html  https://github.com/SherlockLiao/lenet
+*[keras简介](https://m.leiphone.com/news/201708/fhJ72ZPlmYr12CwV.html)  *[keras git 例子](https://github.com/SherlockLiao/lenet)
 
-**keras掌握深度学习** http://geek.csdn.net/news/detail/197439 https://github.com/stared/keras-mini-examples
+*[keras掌握深度学习](http://geek.csdn.net/news/detail/197439) *[最小例子](https://github.com/stared/keras-mini-examples)
 
 tensorflow
 ------------------------------
