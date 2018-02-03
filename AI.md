@@ -21,6 +21,10 @@ tensorflow
 ------------------------------
 **斯坦福课程**  https://web.stanford.edu/class/cs20si/
 
+pytorch
+---------------
+
+**pytorch和tensorflow对比**  https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html
 
 应用场景
 -----------------------------------
