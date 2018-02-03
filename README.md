@@ -87,6 +87,8 @@ redis
 
 *[redis-ml镜像](https://hub.docker.com/r/shaynativ/redis-ml/)
 
+*[Spark-Redis-ML镜像-save spark module to redis-ml](https://hub.docker.com/r/shaynativ/spark-redis-ml/)  *[Spark-Redis-ML源码](https://github.com/RedisLabs/spark-redis-ml)
+
 *[neural-redis源码](https://github.com/antirez/neural-redis)
 
 pytorch
