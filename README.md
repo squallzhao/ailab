@@ -113,6 +113,10 @@ pytorch
 
 *[pytorch pip安装  和tensorflow对比](https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html)
 
+cxxnet
+---------------
+*[源码 c++](https://github.com/dmlc/cxxnet)
+
 matlab
 -------------
 
