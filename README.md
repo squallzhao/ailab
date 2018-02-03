@@ -101,7 +101,7 @@ tflearn
 
 theano
 ---------------
-*[theano源码 pip安装]（https://github.com/Theano/Theano）
+*[theano源码 pip安装](https://github.com/Theano/Theano)
 
 pytorch
 ---------------
