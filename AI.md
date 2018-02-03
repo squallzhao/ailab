@@ -55,10 +55,13 @@ matlab
 
 应用场景
 -----------------------------------
+*[TensorFlow在企业中的应用——深度学习生态概述](http://www.sohu.com/a/211670998_617676)
 
 *[机器学习之贝叶斯实现（垃圾邮件过滤和广告区域倾向）](https://www.cnblogs.com/share-happy-everyday/p/7668494.html)
 
 *[LSTM-情感分析](lstm.md)
+
+*[预测用户流失](http://www.sohu.com/a/216762193_617676)
 
 
 自然语言处理
