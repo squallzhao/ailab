@@ -10,6 +10,13 @@ padans
 **padans入门** http://www.xuebuyuan.com/2180572.html
 
 
+keras
+-------------------------------
+
+**keras简介** https://m.leiphone.com/news/201708/fhJ72ZPlmYr12CwV.html  https://github.com/SherlockLiao/lenet
+
+**keras掌握深度学习** http://geek.csdn.net/news/detail/197439 https://github.com/stared/keras-mini-examples
+
 应用场景
 -----------------------------------
 
