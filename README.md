@@ -167,8 +167,11 @@ matlab
 主流公司
 ----------------------
 *[nvidia](https://www.nvidia.com/zh-cn/deep-learning-ai/industries/)
+
 *[baidu](http://ai.baidu.com/)
+
 *[ali](https://data.aliyun.com/product/learn)
+
 *[tencent](https://ai.qq.com/)
 
 5 learnings
