@@ -132,6 +132,18 @@ matlab
 *[结巴分词](https://github.com/fxsjy/jieba)
 
 
+模板-扩展-网络
+--------------------------
+
+*[tensorflow-template-http-rpc](https://github.com/tobegit3hub/tensorflow_template_application)
+
+*[tensorflow-template说明](http://blog.jobbole.com/105602/)
+
+*[sparknet-deprecated](http://blog.csdn.net/chang_ge/article/details/52687461)
+
+5 learnings
+--------------------------
+
 知识点
 --------------------------
 
@@ -165,17 +177,6 @@ matlab
 *[零基础入门深度学习(7) - 递归神经网络](https://zybuluo.com/hanbingtao/note/626300)
 
 *[李景鹏-深度学习笔记](https://github.com/lijingpeng/deep-learning-notes/blob/master/README.md)
-
-
-
-模板-扩展-网络
---------------------------
-
-*[tensorflow-template-http-rpc](https://github.com/tobegit3hub/tensorflow_template_application)
-
-*[tensorflow-template说明](http://blog.jobbole.com/105602/)
-
-*[sparknet-deprecated](http://blog.csdn.net/chang_ge/article/details/52687461)
 
 
 视频教程
