@@ -51,6 +51,8 @@ matlab
 ---------------
 *[机器学习线上部署](https://zhuanlan.zhihu.com/p/23382412)
 
+*[如何架构机器学习平台](https://www.cnblogs.com/codemind/p/8031710.html?utm_source=debugrun&utm_medium=referral)
+
 应用场景
 -----------------------------------
 
