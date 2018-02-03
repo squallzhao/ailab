@@ -45,7 +45,7 @@ pytorch
 
 **LSTM-电影负面检测** http://www.cnblogs.com/bonelee/p/7903934.html
 
-**LSTM-多层**  http://www.cnblogs.com/bonelee/p/7903145.html
+**LSTM-多层**  http://www.cnblogs.com/bonelee/p/7903145.html  https://mp.weixin.qq.com/s?__biz=MzA5Njc0NTkwNA==&mid=2651472576&idx=1&sn=f36fe447b4a8a1abc842d36900ab439c&chksm=8b55821fbc220b0952816634103a0dc72bccc7e9c3f83c5d524fd5657ef23b9d7a2abe1dc062&scene=21#wechat_redirect
 
 
 自然语言处理
