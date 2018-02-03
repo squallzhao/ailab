@@ -18,3 +18,14 @@
 
 **利炳根-深度学习首篇** http://www.cnblogs.com/libinggen/p/7849427.html
 
+模板-扩展-网络
+--------------------------
+
+**tensorflow-template-http-rpc** https://github.com/tobegit3hub/tensorflow_template_application
+http://blog.jobbole.com/105602/
+
+**sparknet（deprecated）**  http://blog.csdn.net/chang_ge/article/details/52687461
+
+
+
+
