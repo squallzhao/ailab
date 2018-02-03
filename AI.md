@@ -111,6 +111,8 @@ http://blog.jobbole.com/105602/
 
 **莫烦tensorflow视频** https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
 
+**莫烦pytorch视频** https://morvanzhou.github.io/tutorials/machine-learning/torch/
+
 spark
 --------------------------
 
