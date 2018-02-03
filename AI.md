@@ -1,3 +1,15 @@
+
+padans
+-----------------------------------
+
+
+**十分钟搞定pandas**  http://python.jobbole.com/84416/
+
+**Pandas速查手册中文版** http://blog.csdn.net/qq_33399185/article/details/60872853
+
+**padans入门** http://www.xuebuyuan.com/2180572.html
+
+
 应用场景
 -----------------------------------
 
@@ -29,7 +41,7 @@
 
 **LSTM-EmbeddingLayer** https://www.zhihu.com/question/45027109
 
-
+**Embedding的作用** https://www.cnblogs.com/bonelee/p/7904495.html
 
 
 学习笔记
