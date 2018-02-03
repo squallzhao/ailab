@@ -69,13 +69,13 @@ matlab
 
 学习笔记
 --------------------------
-**利炳根-tensorflow首篇（移动端，k8s，serving)** http://www.cnblogs.com/libinggen/p/6864256.html
+*[利炳根-tensorflow首篇（移动端，k8s，serving)](http://www.cnblogs.com/libinggen/p/6864256.html)
 
-**利炳根-深度学习首篇** http://www.cnblogs.com/libinggen/p/7849427.html
+*[利炳根-深度学习首篇](http://www.cnblogs.com/libinggen/p/7849427.html)
 
-**bonelee-机器学习博客** http://www.cnblogs.com/bonelee/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/
+*[bonelee-机器学习博客](http://www.cnblogs.com/bonelee/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
-**bonelee-spark博客** http://www.cnblogs.com/bonelee/tag/spark/
+*[bonelee-spark博客](http://www.cnblogs.com/bonelee/tag/spark/)
 
 **零基础入门深度学习(1) - 感知器**  https://www.zybuluo.com/hanbingtao/note/433855
 
