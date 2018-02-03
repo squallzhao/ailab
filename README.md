@@ -81,6 +81,14 @@ keras
 3 others
 ---------------
 
+redis
+---------------
+*[redis4.0 module list](https://redis.io/modules)
+
+*[redis-ml镜像](https://hub.docker.com/r/shaynativ/redis-ml/)
+
+*[neural-redis源码](https://github.com/antirez/neural-redis)
+
 pytorch
 ---------------
 
