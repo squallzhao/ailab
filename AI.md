@@ -11,6 +11,16 @@
 
 **有哪些较好中文分词方案？** https://www.zhihu.com/question/19578687
 
+**结巴分词** https://github.com/fxsjy/jieba
+
+
+知识点
+--------------------------
+
+**LSTM-EmbeddingLayer** https://www.zhihu.com/question/45027109
+
+
+
 
 学习笔记
 --------------------------
