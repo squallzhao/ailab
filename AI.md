@@ -93,6 +93,8 @@ pytorch
 
 **零基础入门深度学习(7) - 递归神经网络** https://zybuluo.com/hanbingtao/note/626300
 
+*[深度学习笔记](https://github.com/lijingpeng/deep-learning-notes/blob/master/README.md)
+
 
 
 模板-扩展-网络
@@ -123,6 +125,7 @@ http://blog.jobbole.com/105602/
 
 spark
 --------------------------
+
 
 https://m.baidu.com/mip/c/s/m.douban.com/mip/group/topic/82594218/
 
