@@ -113,6 +113,8 @@ http://blog.jobbole.com/105602/
 
 **莫烦pytorch视频** https://morvanzhou.github.io/tutorials/machine-learning/torch/
 
+**莫烦强化学习**  https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+
 spark
 --------------------------
 
