@@ -13,6 +13,8 @@ Python
 
 *[flask](http://www.pythondoc.com/flask/index.html)
 
+*[web.py](http://webpy.org/)
+
 *[django](https://github.com/django/django)
 
 *[tornado](https://github.com/tornadoweb/tornado)  *[文档](http://www.tornadoweb.org/en/latest/index.html)
