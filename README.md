@@ -144,9 +144,7 @@ matlab
 模板-扩展-网络
 --------------------------
 
-*[tensorflow-template-http-rpc](https://github.com/tobegit3hub/tensorflow_template_application)
-
-*[tensorflow-template说明](http://blog.jobbole.com/105602/)
+*[tensorflow-template-http-rpc](https://github.com/tobegit3hub/tensorflow_template_application)    *[tensorflow-template说明](http://blog.jobbole.com/105602/)
 
 *[sparknet-deprecated](http://blog.csdn.net/chang_ge/article/details/52687461)
 
