@@ -5,7 +5,7 @@ What is aistudy?
 
 **aistudy** is a study project for learning AI.
 
-[0 python basics](python/README.md)
+0 [python basics](python/README.md)
 -------------------------
 
 1 pandas
