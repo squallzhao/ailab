@@ -99,7 +99,7 @@ tflearn
 pytorch
 ---------------
 
-*[pytorch和tensorflow对比](https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html)
+*[pytorch pip安装  和tensorflow对比](https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html)
 
 matlab
 -------------
