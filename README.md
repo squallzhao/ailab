@@ -43,12 +43,12 @@ keras
 
 *[spark简要入门](https://m.baidu.com/mip/c/s/m.douban.com/mip/group/topic/82594218/)
 
-*[spark ml&mlib区别](http://blog.csdn.net/rlnLo2pNEfx9c/article/details/78692975)
+
 
  spark mlib
 ----------------
 
- *[Spark镜像](https://hub.docker.com/r/p7hb/docker-spark/)
+ *[Spark镜像](https://hub.docker.com/r/p7hb/docker-spark/)  python ml虚拟机中例子位置/usr/local/spark-2.2.0-bin-hadoop2.7/examples/src/main/python/mllib
 
  *[Spark快速入门指南](http://www.powerxing.com/spark-quick-start-guide/)
 
@@ -58,7 +58,7 @@ keras
 
  *[Spark Mlib官方文档](http://spark.apache.org/docs/latest/mllib-statistics.html#summary-statistics)
 
- *[python ml虚拟机中例子位置](/usr/local/spark-2.2.0-bin-hadoop2.7/examples/src/main/python/mllib)
+ *[spark ml&mlib区别](http://blog.csdn.net/rlnLo2pNEfx9c/article/details/78692975)
 
  Spark & TensorFlow
 ---------------------
