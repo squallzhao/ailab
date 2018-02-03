@@ -13,7 +13,7 @@ Python
 
 *[flask](http://www.pythondoc.com/flask/index.html)
 
-*[tornado](https://github.com/tornadoweb/tornado)
+*[tornado](https://github.com/tornadoweb/tornado)  *[文档](http://www.tornadoweb.org/en/latest/index.html)
 
 *[torngas](https://github.com/mqingyn/torngas)
  
