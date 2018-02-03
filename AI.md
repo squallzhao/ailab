@@ -30,6 +30,12 @@ pytorch
 
 **pytorch和tensorflow对比**  https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html
 
+matlab
+-------------
+
+*[matlib-knn](http://blog.csdn.net/llp1992/article/details/45040685)
+
+
 应用场景
 -----------------------------------
 
