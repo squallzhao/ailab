@@ -91,6 +91,11 @@ redis
 
 *[neural-redis源码](https://github.com/antirez/neural-redis)
 
+tflearn
+---------------
+
+*[tflearn源码 pip安装](https://github.com/tflearn/tflearn)
+
 pytorch
 ---------------
 
