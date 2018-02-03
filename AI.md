@@ -35,7 +35,7 @@ tensorflow
 pytorch
 ---------------
 
-**pytorch和tensorflow对比**  https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html
+*[pytorch和tensorflow对比](https://www.leiphone.com/news/201708/Npflmddi8OGbnJHi.html)
 
 matlab
 -------------
@@ -46,7 +46,7 @@ matlab
 应用场景
 -----------------------------------
 
-**机器学习之贝叶斯实现（垃圾邮件过滤和广告区域倾向）** https://www.cnblogs.com/share-happy-everyday/p/7668494.html
+*[机器学习之贝叶斯实现（垃圾邮件过滤和广告区域倾向）](https://www.cnblogs.com/share-happy-everyday/p/7668494.html)
 
 **LSTM-情感分析1** http://blog.sina.cn/dpool/blog/s/blog_735f29100102wjwu.html  https://spaces.ac.cn/archives/3414/
 
