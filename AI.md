@@ -64,7 +64,7 @@ matlab
 知识点
 --------------------------
 
-*[词向量embedding](embedding.md)
+*[词向量embedding](embeding.md)
 
 
 学习笔记
