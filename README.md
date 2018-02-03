@@ -33,7 +33,7 @@ tensorflow
 
 *[serving 初试](https://zhuanlan.zhihu.com/p/23361413) *[serving支持说明](http://blog.csdn.net/liuxiao214/article/details/74565005)
 
-keras
+keras (支持 Theano 和 TensorFlow)
 -------------------------------
 
 *[keras简介 pip安装](https://m.leiphone.com/news/201708/fhJ72ZPlmYr12CwV.html)  *[keras git 例子](https://github.com/SherlockLiao/lenet)
@@ -99,10 +99,14 @@ caffe
 
 *[pycaffe源码 pip安装](https://github.com/BVLC/caffe)
 
-tflearn
+tflearn(比Keras透明，故运行速度比Keras快)
 ---------------
 
 *[tflearn源码 pip安装](https://github.com/tflearn/tflearn)
+
+tensorlayer(抽象高于tensorflow，低于keras)
+---------------
+*[tensorlayer源码 pip安装](https://github.com/zsdonghao/tensorlayer)
 
 theano
 ---------------
