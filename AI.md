@@ -34,7 +34,7 @@ tensorflow
 
 *[搭建训练集群](https://yq.aliyun.com/articles/68337) *[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
 
-*[搭建seving集群](https://yq.aliyun.com/articles/60894) *[serving搭建](http://blog.csdn.net/bingningning/article/details/72933932) *[serving 初试](https://zhuanlan.zhihu.com/p/23361413)
+*[搭建seving集群](https://yq.aliyun.com/articles/60894) *[serving搭建](http://blog.csdn.net/bingningning/article/details/72933932) *[serving 初试](https://zhuanlan.zhihu.com/p/23361413) *[serving支持说明](http://blog.csdn.net/liuxiao214/article/details/74565005)
 
 pytorch
 ---------------
