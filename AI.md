@@ -32,9 +32,9 @@ tensorflow
 
 *[Deepo介绍](https://baijiahao.baidu.com/s?id=1582701242877189028&wfr=spider&for=pc)
 
-*[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
+*[搭建训练集群](https://yq.aliyun.com/articles/68337) *[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
 
-*[tensorflow serving 初试](https://zhuanlan.zhihu.com/p/23361413)
+*[搭建seving集群](https://yq.aliyun.com/articles/60894) *[serving 初试](https://zhuanlan.zhihu.com/p/23361413)
 
 pytorch
 ---------------
