@@ -94,6 +94,11 @@ redis
 
 *[neural-redis源码](https://github.com/antirez/neural-redis)
 
+caffe
+---------------
+
+*[pycaffe源码 pip安装](https://github.com/BVLC/caffe)
+
 tflearn
 ---------------
 
