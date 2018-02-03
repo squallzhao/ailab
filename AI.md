@@ -86,6 +86,11 @@ http://blog.jobbole.com/105602/
 **sparknet（deprecated）**  http://blog.csdn.net/chang_ge/article/details/52687461
 
 
+视频教程
+--------------------------
+
+**斯坦福大学公开课-机器学习课程** http://open.163.com/special/opencourse/machinelearning.html
+
 spark
 --------------------------
 
