@@ -102,25 +102,25 @@ matlab
 
 *[tensorflow-template说明](http://blog.jobbole.com/105602/)
 
-*[sparknet（deprecated](http://blog.csdn.net/chang_ge/article/details/52687461)
+*[sparknet-deprecated](http://blog.csdn.net/chang_ge/article/details/52687461)
 
 
 视频教程
 --------------------------
 
-**斯坦福大学公开课-机器学习课程** http://open.163.com/special/opencourse/machinelearning.html
+*[斯坦福大学公开课-机器学习课程](http://open.163.com/special/opencourse/machinelearning.html)
 
-**莫烦keras视频**  https://morvanzhou.github.io/tutorials/machine-learning/keras/
+*[莫烦keras视频](https://morvanzhou.github.io/tutorials/machine-learning/keras/)
 
-**莫烦tensorflow视频** https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
+*[莫烦tensorflow视频](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)
 
-**莫烦pytorch视频** https://morvanzhou.github.io/tutorials/machine-learning/torch/
+*[莫烦pytorch视频](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
 
-**莫烦强化学习**  https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+*[莫烦强化学习](https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/)
 
-**莫烦-有趣的机器学习（学习算法）** https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/
+*[莫烦-有趣的机器学习-学习算法](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/)
 
-**莫烦matplotlib** https://morvanzhou.github.io/tutorials/data-manipulation/plt/
+*[莫烦matplotlib](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 
 
 
