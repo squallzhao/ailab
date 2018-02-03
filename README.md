@@ -99,6 +99,10 @@ tflearn
 
 *[tflearn源码 pip安装](https://github.com/tflearn/tflearn)
 
+theano
+---------------
+*[theano源码 pip安装]（https://github.com/Theano/Theano）
+
 pytorch
 ---------------
 
