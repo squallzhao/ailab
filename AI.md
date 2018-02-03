@@ -2,6 +2,10 @@ spark
 ------------------
 *[spark入门实战系列](http://www.cnblogs.com/shishanyuan/p/4699644.html)
 
+*[spark简要入门](https://m.baidu.com/mip/c/s/m.douban.com/mip/group/topic/82594218/)
+
+*[spark ml&mlib区别](http://blog.csdn.net/rlnLo2pNEfx9c/article/details/78692975)
+
 padans
 -----------------------------------
 
@@ -136,10 +140,9 @@ http://blog.jobbole.com/105602/
 
 **莫烦matplotlib** https://morvanzhou.github.io/tutorials/data-manipulation/plt/
 
-spark
---------------------------
 
 
-https://m.baidu.com/mip/c/s/m.douban.com/mip/group/topic/82594218/
+
+
 
 
