@@ -17,6 +17,11 @@ keras
 
 **keras掌握深度学习** http://geek.csdn.net/news/detail/197439 https://github.com/stared/keras-mini-examples
 
+tensorflow
+------------------------------
+**斯坦福课程**  https://web.stanford.edu/class/cs20si/
+
+
 应用场景
 -----------------------------------
 
