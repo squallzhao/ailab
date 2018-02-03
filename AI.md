@@ -50,22 +50,6 @@ matlab
 
 *[LSTM-情感分析](lstm.md)
 
-**LSTM-情感分析1** http://blog.sina.cn/dpool/blog/s/blog_735f29100102wjwu.html  https://spaces.ac.cn/archives/3414/
-
-**LSTM-情感分析2** https://zhuanlan.zhihu.com/p/31271273
-
-**LSTM-情感分析3** http://blog.csdn.net/william_2015/article/details/72978387 http://blog.csdn.net/churximi/article/details/61210129
-
-**LSTM详解-情感分析**  http://blog.csdn.net/LIUSHAO123456789/article/details/78991581
-
-**LSTM-三分类** https://www.jianshu.com/p/158c3f02a15b   https://github.com/Edward1Chou/SentimentAnalysis
-
-**LSTM-情感分析-TFLearn**  https://www.jianshu.com/p/dc6387b2a409
-
-**LSTM-电影负面检测** http://www.cnblogs.com/bonelee/p/7903934.html
-
-**LSTM-多层**  http://www.cnblogs.com/bonelee/p/7903145.html  https://mp.weixin.qq.com/s?__biz=MzA5Njc0NTkwNA==&mid=2651472576&idx=1&sn=f36fe447b4a8a1abc842d36900ab439c&chksm=8b55821fbc220b0952816634103a0dc72bccc7e9c3f83c5d524fd5657ef23b9d7a2abe1dc062&scene=21#wechat_redirect
-
 
 自然语言处理
 --------------------------
