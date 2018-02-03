@@ -100,6 +100,7 @@ http://blog.jobbole.com/105602/
 
 **莫烦keras视频**  https://morvanzhou.github.io/tutorials/machine-learning/keras/
 
+**莫烦tensorflow视频** https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/
 
 spark
 --------------------------
