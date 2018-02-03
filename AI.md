@@ -12,4 +12,9 @@
 **有哪些较好中文分词方案？** https://www.zhihu.com/question/19578687
 
 
+学习笔记
+--------------------------
+**利炳根-tensorflow首篇（移动端，k8s，serving)** http://www.cnblogs.com/libinggen/p/6864256.html
+
+**利炳根-深度学习首篇** http://www.cnblogs.com/libinggen/p/7849427.html
 
