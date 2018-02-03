@@ -25,6 +25,8 @@ padans
 
 **LSTM-情感分析-TFLearn**  https://www.jianshu.com/p/dc6387b2a409
 
+**LSTM-多层**  http://www.cnblogs.com/bonelee/p/7903145.html
+
 
 自然语言处理
 --------------------------
