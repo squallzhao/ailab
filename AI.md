@@ -48,6 +48,8 @@ matlab
 
 *[机器学习之贝叶斯实现（垃圾邮件过滤和广告区域倾向）](https://www.cnblogs.com/share-happy-everyday/p/7668494.html)
 
+*[LSTM-情感分析](lstm.md)
+
 **LSTM-情感分析1** http://blog.sina.cn/dpool/blog/s/blog_735f29100102wjwu.html  https://spaces.ac.cn/archives/3414/
 
 **LSTM-情感分析2** https://zhuanlan.zhihu.com/p/31271273
