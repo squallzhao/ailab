@@ -16,14 +16,11 @@ What is aistudy?
 
 tensorflow
 ------------------------------
+*[tensorflow镜像](https://hub.docker.com/r/tensorflow/tensorflow/)
 *[斯坦福课程](https://web.stanford.edu/class/cs20si/)
-
 *[Deepo是一个几乎包含所有流行深度学习框架的Docker映像](https://m.baidu.com/mip/c/www.360doc.cn/mip/705123258.html)
-
 *[Deepo介绍](https://baijiahao.baidu.com/s?id=1582701242877189028&wfr=spider&for=pc)
-
 *[搭建训练集群](https://yq.aliyun.com/articles/68337) *[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
-
 *[搭建seving集群](https://yq.aliyun.com/articles/60894) *[serving搭建](http://blog.csdn.net/bingningning/article/details/72933932) *[serving 初试](https://zhuanlan.zhihu.com/p/23361413) *[serving支持说明](http://blog.csdn.net/liuxiao214/article/details/74565005)
 
 keras
