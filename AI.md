@@ -11,6 +11,7 @@
 
 **LSTM-三分类** https://www.jianshu.com/p/158c3f02a15b   https://github.com/Edward1Chou/SentimentAnalysis
 
+**LSTM-情感分析-TFLearn**  https://www.jianshu.com/p/dc6387b2a409
 
 
 自然语言处理
