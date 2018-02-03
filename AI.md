@@ -31,9 +31,11 @@ pytorch
 
 **机器学习之贝叶斯实现（垃圾邮件过滤和广告区域倾向）** https://www.cnblogs.com/share-happy-everyday/p/7668494.html
 
-**LSTM-情感分析1** http://blog.sina.cn/dpool/blog/s/blog_735f29100102wjwu.html
+**LSTM-情感分析1** http://blog.sina.cn/dpool/blog/s/blog_735f29100102wjwu.html  https://spaces.ac.cn/archives/3414/
 
 **LSTM-情感分析2** https://zhuanlan.zhihu.com/p/31271273
+
+**LSTM-情感分析3** http://blog.csdn.net/william_2015/article/details/72978387 http://blog.csdn.net/churximi/article/details/61210129
 
 **LSTM详解-情感分析**  http://blog.csdn.net/LIUSHAO123456789/article/details/78991581
 
