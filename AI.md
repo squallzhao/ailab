@@ -54,17 +54,17 @@ matlab
 自然语言处理
 --------------------------
 
-**十种分词器说明**  http://blog.csdn.net/sqzhao/article/details/47623067
+*[十种分词器说明](http://blog.csdn.net/sqzhao/article/details/47623067)
 
-**有哪些较好中文分词方案？** https://www.zhihu.com/question/19578687
+*[有哪些较好中文分词方案？](https://www.zhihu.com/question/19578687)
 
-**结巴分词** https://github.com/fxsjy/jieba
+*[结巴分词](https://github.com/fxsjy/jieba)
 
 
 知识点
 --------------------------
 
-**LSTM-EmbeddingLayer** https://www.zhihu.com/question/45027109
+*[LSTM-EmbeddingLayer](https://www.zhihu.com/question/45027109)
 
 **Embedding的作用** https://www.cnblogs.com/bonelee/p/7904495.html
 
