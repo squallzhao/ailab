@@ -43,6 +43,9 @@ padans
 
 **Embedding的作用** https://www.cnblogs.com/bonelee/p/7904495.html
 
+**词向量，英文名叫Word Embedding**  https://spaces.ac.cn/archives/4122/
+
+
 
 学习笔记
 --------------------------
