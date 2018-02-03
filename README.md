@@ -105,7 +105,12 @@ matlab
 4 projects
 ---------------
 
-运维层面
+
+发展现状
+---------------
+*[TensorFlow在企业中的应用——深度学习生态概述](http://www.sohu.com/a/211670998_617676)
+
+部署层面
 ---------------
 *[机器学习线上部署](https://zhuanlan.zhihu.com/p/23382412)
 
@@ -113,7 +118,6 @@ matlab
 
 应用场景
 -----------------------------------
-*[TensorFlow在企业中的应用——深度学习生态概述](http://www.sohu.com/a/211670998_617676)
 
 *[机器学习之贝叶斯实现（垃圾邮件过滤和广告区域倾向）](https://www.cnblogs.com/share-happy-everyday/p/7668494.html)
 
