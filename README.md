@@ -39,7 +39,7 @@ keras
 
 2 spark
 ------------------
- *[Spark镜像](https://hub.docker.com/r/p7hb/docker-spark/) 
+ *[Spark镜像-自带Mlib](https://hub.docker.com/r/p7hb/docker-spark/) 
  
 *[spark入门实战系列](http://www.cnblogs.com/shishanyuan/p/4699644.html)
 
