@@ -34,6 +34,8 @@ tensorflow
 
 *[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
 
+*[tensorflow serving 初试](https://zhuanlan.zhihu.com/p/23361413)
+
 pytorch
 ---------------
 
