@@ -219,6 +219,7 @@ matlab
 
 *[李景鹏-深度学习笔记](https://github.com/lijingpeng/deep-learning-notes/blob/master/README.md)
 
+*[传统机器学习博客10篇](http://www.cnblogs.com/muchen/p/6882935.html)
 
 视频教程
 --------------------------
