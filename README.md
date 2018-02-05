@@ -244,6 +244,10 @@ matlab
 
 *[莫烦matplotlib](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 
+6tools
+--------------------------
+*[notebook viewer]https://nbviewer.jupyter.org/
+
 
 
 
