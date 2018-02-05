@@ -16,6 +16,7 @@ What is aistudy?
 
 *[padans入门](http://www.xuebuyuan.com/2180572.html)
 
+*[numpy & pandas常用函数](https://www.cnblogs.com/prpl/p/5537417.html)
 
 tensorflow
 ------------------------------
