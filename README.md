@@ -23,6 +23,8 @@ tensorflow
 
 *[斯坦福课程](https://web.stanford.edu/class/cs20si/)
 
+*[数十种TensorFlow实现案例汇集：代码+笔记](http://blog.csdn.net/dj0379/article/details/52851027)
+
 *[Deepo是一个几乎包含所有流行深度学习框架的Docker映像](https://m.baidu.com/mip/c/www.360doc.cn/mip/705123258.html)  *[Deepo介绍](https://baijiahao.baidu.com/s?id=1582701242877189028&wfr=spider&for=pc)
 
 *[搭建训练集群](https://yq.aliyun.com/articles/68337) *[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
