@@ -18,6 +18,12 @@ What is aistudy?
 
 *[numpy & pandas常用函数](https://www.cnblogs.com/prpl/p/5537417.html)
 
+matplotlib
+--------------
+*[install](https://matplotlib.org/users/installing.html#linux) 
+
+*[numpy&matplotlib简要教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)
+
 tensorflow
 ------------------------------
 *[tensorflow镜像](https://hub.docker.com/r/tensorflow/tensorflow/)  *[models](https://github.com/tensorflow/models)  *[Virtualenv方式安装](http://blog.csdn.net/csdn_lisword/article/details/55506765)
