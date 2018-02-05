@@ -81,6 +81,8 @@ keras (支持 Theano 和 TensorFlow)
  *[TensorFlowOnSpark搭建standalone](http://blog.csdn.net/jiangpeng59/article/details/72867368)
 
  *[TensorFlowOnSpark搭建YARN](https://www.cnblogs.com/heimianshusheng/p/6768019.html)
+ 
+ *[tensroflowonspark架构理解](https://www.jianshu.com/p/62b4ebb5a2f4)
 
  *[三个有用的TensorFlow On Spark 开源项目分析](http://www.aboutyun.com/thread-21058-1-1.html)
 
@@ -141,6 +143,7 @@ matlab
 发展现状
 ---------------
 *[TensorFlow在企业中的应用——深度学习生态概述](http://www.sohu.com/a/211670998_617676)
+*[技术框架对比](https://www.leiphone.com/news/201702/T5e31Y2ZpeG1ZtaN.html)
 
 部署层面
 ---------------
