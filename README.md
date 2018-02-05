@@ -152,6 +152,8 @@ matlab
 
 *[svm文本分类](http://blog.csdn.net/qq_30189255/article/details/54571370)
 
+*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system)
+
 自然语言处理
 --------------------------
 
