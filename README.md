@@ -209,6 +209,10 @@ matlab
 
 *[wide and deep](http://geek.csdn.net/news/detail/235465)
 
+*[maxout](http://www.cnblogs.com/wuxiangli/p/7275092.html)
+
+*[dropout](http://www.cnblogs.com/wuxiangli/p/7309501.html)
+
 *[最全优化方法](http://www.cnblogs.com/wuxiangli/p/7258510.html)
 
 学习笔记
