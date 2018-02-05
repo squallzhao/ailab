@@ -1,6 +1,10 @@
 Python
 =====================================
 
+0 basics
+----------------
+*[python](http://wiki.jikexueyuan.com/project/start-learning-python/310.html)
+
 1 Threads
 ----------------
 
