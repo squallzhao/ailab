@@ -174,6 +174,8 @@ matlab
 
 *[tencent](https://ai.qq.com/)
 
+*[HuaWei](http://www.huaweicloud.com/product/mls.html)
+
 5 learnings
 --------------------------
 
