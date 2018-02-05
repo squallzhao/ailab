@@ -36,6 +36,8 @@ keras (支持 Theano 和 TensorFlow)
 
 *[keras简介 pip安装](https://m.leiphone.com/news/201708/fhJ72ZPlmYr12CwV.html)  *[keras git 例子](https://github.com/SherlockLiao/lenet)
 
+*[keras官方中文文档](http://keras-cn.readthedocs.io/en/latest/getting_started/sequential_model/)
+
 *[keras掌握深度学习](http://geek.csdn.net/news/detail/197439) *[最小例子](https://github.com/stared/keras-mini-examples)
 
 2 spark
