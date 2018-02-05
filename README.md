@@ -158,11 +158,20 @@ matlab
 4 projects
 ---------------
 
+*[机器学习典型步骤](https://www.jianshu.com/p/63ef4b87e197)
+
 
 发展现状
 ---------------
 *[TensorFlow在企业中的应用——深度学习生态概述](http://www.sohu.com/a/211670998_617676)
 *[技术框架对比](https://www.leiphone.com/news/201702/T5e31Y2ZpeG1ZtaN.html)
+
+自动化机器学习 
+------------------
+
+*[介绍主流自动化机器学习](https://www.leiphone.com/news/201701/dKfVIWiDaWvdMqKu.html)  *[parris](https://github.com/jgreenemi/Parris)
+
+*[hyperparameters](http://m.sohu.com/a/166163865_465975)  *[auto-ml](https://github.com/ClimbsRocks/auto_ml) *[Auto-sklearn]
 
 部署层面
 ---------------
@@ -289,7 +298,7 @@ matlab
 
 *[莫烦matplotlib](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 
-6tools
+6 tools
 --------------------------
 *[notebook viewer](https://nbviewer.jupyter.org/)
 
