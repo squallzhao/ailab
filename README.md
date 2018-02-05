@@ -234,6 +234,8 @@ matlab
 
 *[若干激活函数](http://www.cnblogs.com/wuxiangli/p/6501121.html)
 
+*[集成学习](http://blog.csdn.net/u010055527/article/details/78397440)
+
 学习笔记
 --------------------------
 *[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
