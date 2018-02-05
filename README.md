@@ -104,6 +104,10 @@ keras (支持 Theano 和 TensorFlow)
 3 others
 ---------------
 
+sklearn
+------------
+*[sklearn教程](https://www.cnblogs.com/magle/p/5638409.html)
+
 redis
 ---------------
 *[redis4.0 module list](https://redis.io/modules)
@@ -113,6 +117,10 @@ redis
 *[Spark-Redis-ML镜像-save spark mlib module to redis-ml](https://hub.docker.com/r/shaynativ/spark-redis-ml/)  *[Spark-Redis-ML源码](https://github.com/RedisLabs/spark-redis-ml)
 
 *[neural-redis源码](https://github.com/antirez/neural-redis)
+
+XGBoost
+---------
+*[XGBoost源码教程](http://geek.csdn.net/news/detail/201207) *[理解XGBoost机器学习模型的决策过程](https://baijiahao.baidu.com/s?id=1587281669995962895) *[XGBoost与深度学习到底孰优孰劣](http://news.hiapk.com/mip/s5937472b6b7b.html)  
 
 caffe
 ---------------
@@ -173,7 +181,9 @@ matlab
 
 *[svm文本分类](http://blog.csdn.net/qq_30189255/article/details/54571370)
 
-*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system) *[点评](https://www.cnblogs.com/wuxiangli/p/7258474.html)
+*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system) *[点评](https://www.cnblogs.com/wuxiangli/p/7258474.html) *[XGBoost算法在电子商务商品推荐中的应用](http://www.fx361.com/page/2017/0315/1160674.shtml)
+
+
 
 自然语言处理
 --------------------------
@@ -231,6 +241,8 @@ matlab
 *[利炳根-tensorflow首篇（移动端，k8s，serving)](http://www.cnblogs.com/libinggen/p/6864256.html)
 
 *[利炳根-深度学习首篇](http://www.cnblogs.com/libinggen/p/7849427.html)
+
+*[王小草博客](http://blog.csdn.net/sinat_33761963/article/list)
 
 *[bonelee-机器学习博客](http://www.cnblogs.com/bonelee/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
 
