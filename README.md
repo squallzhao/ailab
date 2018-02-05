@@ -207,6 +207,8 @@ matlab
 
 *[正态分布Normal distribution](knowdge/normal.md)
 
+*[wide and deep](http://geek.csdn.net/news/detail/235465)
+
 学习笔记
 --------------------------
 *[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
