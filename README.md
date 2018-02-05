@@ -19,11 +19,11 @@ What is aistudy?
 
 tensorflow
 ------------------------------
-*[tensorflow镜像](https://hub.docker.com/r/tensorflow/tensorflow/)  *[models](https://github.com/tensorflow/models)
+*[tensorflow镜像](https://hub.docker.com/r/tensorflow/tensorflow/)  *[models](https://github.com/tensorflow/models)  *[Virtualenv方式安装](http://blog.csdn.net/csdn_lisword/article/details/55506765)
 
-*[斯坦福课程](https://web.stanford.edu/class/cs20si/)
+*[极客学院教程](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html) *[斯坦福课程](https://web.stanford.edu/class/cs20si/)
 
-*[数十种TensorFlow实现案例汇集：代码+笔记](http://blog.csdn.net/dj0379/article/details/52851027)
+ *[数十种例子](https://github.com/aymericdamien/TensorFlow-Examples)  *[数十种TensorFlow实现案例汇集：代码+笔记](http://blog.csdn.net/dj0379/article/details/52851027) 
 
 *[Deepo是一个几乎包含所有流行深度学习框架的Docker映像](https://m.baidu.com/mip/c/www.360doc.cn/mip/705123258.html)  *[Deepo介绍](https://baijiahao.baidu.com/s?id=1582701242877189028&wfr=spider&for=pc)
 
