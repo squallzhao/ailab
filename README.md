@@ -23,6 +23,7 @@ matplotlib
 *[install](https://matplotlib.org/users/installing.html#linux) 
 
 *[numpy&matplotlib简要教程](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)
+
 scipy
 --------------------
 
@@ -276,7 +277,7 @@ matlab
 
 6tools
 --------------------------
-*[notebook viewer]https://nbviewer.jupyter.org/
+*[notebook viewer](https://nbviewer.jupyter.org/)
 
 
 
