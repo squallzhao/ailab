@@ -166,7 +166,7 @@ matlab
 
 *[svm文本分类](http://blog.csdn.net/qq_30189255/article/details/54571370)
 
-*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system)
+*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system) *[点评](https://www.cnblogs.com/wuxiangli/p/7258474.html)
 
 自然语言处理
 --------------------------
@@ -208,6 +208,8 @@ matlab
 *[正态分布Normal distribution](knowdge/normal.md)
 
 *[wide and deep](http://geek.csdn.net/news/detail/235465)
+
+*[最全优化方法](http://www.cnblogs.com/wuxiangli/p/7258510.html)
 
 学习笔记
 --------------------------
