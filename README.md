@@ -189,6 +189,7 @@ matlab
 
 *[词向量embedding](embeding.md)
 
+*[正态分布Normal distribution](knowdge/normal.md)
 
 学习笔记
 --------------------------
