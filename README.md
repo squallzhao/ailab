@@ -245,6 +245,8 @@ matlab
 
 *[集成学习](http://blog.csdn.net/u010055527/article/details/78397440)  *[三种集成学习方法](http://blog.csdn.net/zk_j1994/article/details/75674601)
 
+*[降维](http://blog.csdn.net/ma416539432/article/details/53286028)
+
 学习笔记
 --------------------------
 *[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
