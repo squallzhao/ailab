@@ -36,7 +36,7 @@ tensorflow
 
 *[搭建训练集群](https://yq.aliyun.com/articles/68337) *[分布式训练](http://blog.csdn.net/hjimce/article/details/61197190)
 
-*[搭建seving集群](https://yq.aliyun.com/articles/60894) *[serving搭建](http://blog.csdn.net/bingningning/article/details/72933932)  *[serving 初试](https://zhuanlan.zhihu.com/p/23361413) *[serving支持说明](http://blog.csdn.net/liuxiao214/article/details/74565005)
+*[搭建seving集群](https://yq.aliyun.com/articles/60894) *[serving搭建](http://blog.csdn.net/bingningning/article/details/72933932)  *[serving 初试](https://zhuanlan.zhihu.com/p/23361413) *[serving支持说明](http://blog.csdn.net/liuxiao214/article/details/74565005) *[serving使用](http://www.jishux.com/plus/view-641633-1.html) *[serving识别门牌](https://www.urlteam.org/2017/10/tensoflow-serving-%E5%AE%9E%E6%88%98%E4%B9%8Bgan-%E8%AF%86%E5%88%AB%E9%97%A8%E7%89%8C%E5%8F%B7%E7%9A%84%E8%AF%86%E5%88%AB%E6%9C%8D%E5%8A%A1%E6%8E%A5%E5%8F%A3/)
 
 keras (支持 Theano 和 TensorFlow)
 -------------------------------
