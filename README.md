@@ -150,6 +150,7 @@ matlab
 
 *[预测用户流失](http://www.sohu.com/a/216762193_617676)
 
+*[svm文本分类](http://blog.csdn.net/qq_30189255/article/details/54571370)
 
 自然语言处理
 --------------------------
