@@ -190,7 +190,7 @@ matlab
 
 *[svm文本分类](http://blog.csdn.net/qq_30189255/article/details/54571370)
 
-*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system) *[点评](https://www.cnblogs.com/wuxiangli/p/7258474.html) *[XGBoost算法在电子商务商品推荐中的应用](http://www.fx361.com/page/2017/0315/1160674.shtml)
+*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system) *[点评](https://www.cnblogs.com/wuxiangli/p/7258474.html) *[XGBoost算法在电子商务商品推荐中的应用](http://www.fx361.com/page/2017/0315/1160674.shtml) *[电影推荐](https://www.cnblogs.com/yeyinfu/p/7316692.html)
 
 
 
