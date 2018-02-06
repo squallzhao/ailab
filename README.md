@@ -247,6 +247,8 @@ matlab
 
 *[降维](http://blog.csdn.net/ma416539432/article/details/53286028)
 
+*[卷积神经网络](http://blog.csdn.net/cxmscb/article/details/71023576)
+
 学习笔记
 --------------------------
 *[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
