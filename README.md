@@ -179,6 +179,8 @@ matlab
 
 *[如何架构机器学习平台](https://www.cnblogs.com/codemind/p/8031710.html?utm_source=debugrun&utm_medium=referral)
 
+*[超参数spark tensorflow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
+
 应用场景
 -----------------------------------
 
