@@ -271,6 +271,8 @@ matlab
 
 *[zhourunlai学习](https://github.com/zhourunlai/deep-learning-demo)
 
+*[几十种资料](https://www.cnblogs.com/huaxingtianxia/p/8151215.html)
+
 *[tensorflow几十个资料](http://blog.csdn.net/appleml/article/details/52996215)
 
 *[dl4j教科书](https://deeplearning4j.org/cn/neuralnet-overview)
