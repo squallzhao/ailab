@@ -253,6 +253,7 @@ matlab
 
 学习笔记
 --------------------------
+
 *[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
 
 *[利炳根-tensorflow首篇（移动端，k8s，serving)](http://www.cnblogs.com/libinggen/p/6864256.html)
@@ -268,6 +269,8 @@ matlab
 *[zhourunlai学习](https://github.com/zhourunlai/deep-learning-demo)
 
 *[tensorflow几十个资料](http://blog.csdn.net/appleml/article/details/52996215)
+
+*[dl4j教科书](https://deeplearning4j.org/cn/neuralnet-overview)
 
 *[零基础入门深度学习(1) - 感知器](https://www.zybuluo.com/hanbingtao/note/433855)
 
