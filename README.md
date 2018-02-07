@@ -310,6 +310,8 @@ matlab
 
 *[莫烦matplotlib](https://morvanzhou.github.io/tutorials/data-manipulation/plt/)
 
+*[推荐算法付费课程](http://www.17zixueba.com/thread-2235-1-1.html)
+
 6 tools
 --------------------------
 *[notebook viewer](https://nbviewer.jupyter.org/)
