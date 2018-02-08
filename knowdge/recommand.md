@@ -26,3 +26,13 @@
 
 *[神经网络与推荐](https://www.cnblogs.com/wangyaning/p/7853862.html)
 
+国际会议 
+--------
+https://recsys.acm.org/
+
+*[百度recsys](http://recsys.baidu.com/recsys/doc?tpl=index&doc=similarity)
+
+<<分享基于大数据技术推荐系统实战教程>>
+
+
+
