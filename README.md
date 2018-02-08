@@ -195,7 +195,7 @@ matlab
 
 *[svm文本分类](http://blog.csdn.net/qq_30189255/article/details/54571370)
 
-*[推荐](https://github.com/PaddlePaddle/book/tree/develop/05.recommender_system) *[点评](https://www.cnblogs.com/wuxiangli/p/7258474.html) *[Amazon DSSTNE](https://github.com/amzn/amazon-dsstne) *[TF-recomm](https://github.com/songgc/TF-recomm) *[movie_recomm](http://blog.csdn.net/chengcheng1394/article/details/78820529) *[电影推荐](https://www.cnblogs.com/yeyinfu/p/7316692.html) *[paddle推荐原理解析](https://www.cnblogs.com/rongyux/p/6864233.html) *[python-recsys](http://blog.csdn.net/tianwangclown/article/details/68951647) *[python-recsys2](https://www.jianshu.com/p/68bbe9b511a6) *[神经网络与推荐](https://www.cnblogs.com/wangyaning/p/7853862.html)
+*[推荐系统](knowdge/recommand.md) 
 
 
 
