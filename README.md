@@ -1,9 +1,9 @@
-# aistudy
+# ailab
 
-What is aistudy?
+What is ailab?
 =====================================
 
-**aistudy** is a study project for learning AI.
+**ailab** is a project for learning AI.
 
 0 [python basics](python/README.md)
 -------------------------
