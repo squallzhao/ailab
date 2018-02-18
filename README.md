@@ -256,6 +256,7 @@ matlab
 
 学习笔记
 --------------------------
+*[吴恩达深度学习](http://blog.csdn.net/xiao__run/article/details/78089449)
 
 *[hjimce深度学习博客](http://blog.csdn.net/hjimce/article/details/50573444)
 
